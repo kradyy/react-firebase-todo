@@ -76,10 +76,10 @@ function App() {
   // Add priority dropdown
   return (
     <div className="App">
-      <div className="bg"></div>
 
       <CssVarsProvider />
 
+      <div className="bg"></div>
       <h1>TO:DO <span>App</span></h1>
 
       <div className="box center">
